@@ -1,6 +1,6 @@
 # Basics of Chest CT
 Take the following steps:
-1. Identify the dominant Pattern *(reticular vs nodular)* 
+1. Identify the dominant Pattern *(reticular vs nodular and high attenuation vs low attenuation)* 
 2. Identify distribution in secondary lobule *(centrilobular, perilymphatic, random)*
 3. Identify distribution within lung *(upper zones vs lower zones and central vs peripheral)*
 
@@ -33,7 +33,7 @@ Take the following steps:
 -- Miliary infection (TB, fungal)
 -- Metastases
 ### High Attenuation
-- Ground Glass Opacities
+1. Ground Glass Opacities
 - Consolidation
 
 ### Low Attenuation
@@ -47,6 +47,6 @@ Take the following steps:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzQ2NzMzMDUsMTM1MjA3MDYyNywtMT
-A3MzgxMzEzNyw0NDM4Njk1MjVdfQ==
+eyJoaXN0b3J5IjpbMTE3ODExOTIzOSwtMTk3NDY3MzMwNSwxMz
+UyMDcwNjI3LC0xMDczODEzMTM3LDQ0Mzg2OTUyNV19
 -->
