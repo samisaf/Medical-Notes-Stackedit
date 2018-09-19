@@ -17,8 +17,8 @@ Dominant Pattern(reticular, nodular) -> Distribution in sec. lobule (centrilobul
 ## Secondary lobule
 
 ![Secondary lobule](https://images.radiopaedia.org/images/335613/683689b399c8f6da29db25206ffb12_jumbo.jpeg)
-> Written with [StackEdit](https://stackedit.io/).
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNjM5OTI5MywtMTA3MzgxMzEzNyw0ND
+eyJoaXN0b3J5IjpbLTY0NjE4MTQ1MSwtMTA3MzgxMzEzNyw0ND
 M4Njk1MjVdfQ==
 -->
