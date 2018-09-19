@@ -41,8 +41,16 @@ Take the following steps:
 - Chronic
 -- Hypersensitivity pneumonia
 -- Organizing pneumonia
--- Chronic alveolar p
+-- Chronic alveolar pneumonia
+-- Alveolar proteinosis
+-- Lung fibrosis (UIP, NSIP)
+-- Bronchoalveolar carcinoma
 2. Consolidation
+- Pneumonia
+- Edema
+- Fibrosis
+- Tumor
+- Idiopathic 
 
 ### Low Attenuation
 - Emphysema
@@ -55,6 +63,6 @@ Take the following steps:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDk0NTU3MTMsLTE5NzQ2NzMzMDUsMT
-M1MjA3MDYyNywtMTA3MzgxMzEzNyw0NDM4Njk1MjVdfQ==
+eyJoaXN0b3J5IjpbNzE2MjU2NjU1LC0xOTc0NjczMzA1LDEzNT
+IwNzA2MjcsLTEwNzM4MTMxMzcsNDQzODY5NTI1XX0=
 -->
