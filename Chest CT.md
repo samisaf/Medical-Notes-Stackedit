@@ -1,7 +1,12 @@
 # Basics of Chest CT
 Dominant Pattern(reticular, nodular) -> Distribution in sec. lobule (centrilobular, perilymphatic, random) ->Distribution within lung (upper zones, lower zones, central, or peripheral)
 ## CT Chest Patterns
-### Reticular
+### Reticular or septal thickening
+1. Smooth
+2. Nodular or irregular
+-- Lymphangitic spread of cancer or lymphoma
+-- Sarcoidosis
+-- Silicosis
 
 ### Nodular
 
@@ -20,6 +25,6 @@ Dominant Pattern(reticular, nodular) -> Distribution in sec. lobule (centrilobul
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MjA3MDYyNywtMTA3MzgxMzEzNyw0ND
-M4Njk1MjVdfQ==
+eyJoaXN0b3J5IjpbODM0NTk2NTAxLDEzNTIwNzA2MjcsLTEwNz
+M4MTMxMzcsNDQzODY5NTI1XX0=
 -->
