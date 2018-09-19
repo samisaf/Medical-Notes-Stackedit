@@ -2,7 +2,8 @@
 Take the following steps:
 1. Identify the dominant Pattern *(reticular vs nodular)* 
 2. Identify distribution in secondary lobule *(centrilobular, perilymphatic, random)*
-3. Distribution within lung (upper zones, lower zones, central, or peripheral)
+3. Identify distribution within lung *(upper zones vs lower zones and central vs peripheral)*
+
 ## CT Chest Patterns
 ### Reticular or septal thickening
 1. Smooth
@@ -46,6 +47,6 @@ Take the following steps:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTA4MTEzNDksMTM1MjA3MDYyNywtMT
-A3MzgxMzEzNyw0NDM4Njk1MjVdfQ==
+eyJoaXN0b3J5IjpbMTkwNDg2NTQ0NywxMzUyMDcwNjI3LC0xMD
+czODEzMTM3LDQ0Mzg2OTUyNV19
 -->
