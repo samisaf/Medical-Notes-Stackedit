@@ -3,13 +3,16 @@ Dominant Pattern(reticular, nodular) -> Distribution in sec. lobule (centrilobul
 ## CT Chest Patterns
 ### Reticular or septal thickening
 1. Smooth
-2. Nodular or irregular
+-- Lymphangitic spread of cancer or lymphoma
+-- Interstitial pulmonary edema
+-- Alveolar proteinosis
+3. Nodular or irregular
 -- Lymphangitic spread of cancer or lymphoma
 -- Sarcoidosis
 -- Silicosis
 
 ### Nodular
-
+1. Centrilobular distribution (no pleural 
 ### High Attenuation
 - Ground Glass Opacities
 - Consolidation
@@ -25,6 +28,6 @@ Dominant Pattern(reticular, nodular) -> Distribution in sec. lobule (centrilobul
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM0NTk2NTAxLDEzNTIwNzA2MjcsLTEwNz
-M4MTMxMzcsNDQzODY5NTI1XX0=
+eyJoaXN0b3J5IjpbMTMxMjY4NzA1NiwxMzUyMDcwNjI3LC0xMD
+czODEzMTM3LDQ0Mzg2OTUyNV19
 -->
