@@ -1,5 +1,5 @@
 # Basics of Chest CT
-## CT Chest Patters
+## CT Chest Patterns
 ### Reticular
 
 ### Nodular
@@ -15,5 +15,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQzODY5NTI1XX0=
+eyJoaXN0b3J5IjpbLTE4MzI3NDc2Myw0NDM4Njk1MjVdfQ==
 -->
