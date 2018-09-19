@@ -1,4 +1,5 @@
 # Basics of Chest CT
+Foll
 Dominant Pattern(reticular, nodular) -> Distribution in sec. lobule (centrilobular, perilymphatic, random) ->Distribution within lung (upper zones, lower zones, central, or peripheral)
 ## CT Chest Patterns
 ### Reticular or septal thickening
@@ -21,7 +22,13 @@ Dominant Pattern(reticular, nodular) -> Distribution in sec. lobule (centrilobul
 -- Infection (TB, MAC, bacterial, fungal)
 -- Airway disease (cystic fibrosis, brohchiectasis)
 -- ABPA
-3. Perilymphatic distribution (
+3. Perilymphatic distribution (subpleural, and septal)
+-- Sarcoidosis
+-- Silicosis
+-- Lymphangitic cancer
+4. Random distribution (pleural, diffuse)
+-- Miliary infection (TB, fungal)
+-- Metastases
 ### High Attenuation
 - Ground Glass Opacities
 - Consolidation
@@ -37,6 +44,6 @@ Dominant Pattern(reticular, nodular) -> Distribution in sec. lobule (centrilobul
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MDg1OTY1MywxMzUyMDcwNjI3LC0xMD
-czODEzMTM3LDQ0Mzg2OTUyNV19
+eyJoaXN0b3J5IjpbODk2NzI3NjA3LDEzNTIwNzA2MjcsLTEwNz
+M4MTMxMzcsNDQzODY5NTI1XX0=
 -->
