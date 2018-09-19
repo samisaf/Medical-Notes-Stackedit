@@ -12,7 +12,13 @@ Dominant Pattern(reticular, nodular) -> Distribution in sec. lobule (centrilobul
 -- Silicosis
 
 ### Nodular
-1. Centrilobular distribution (no pleural 
+1. Centrilobular distribution (no pleural nodules)
+-- Hypersensitivity pneumonitis
+-- Respiratory brohnchiolitis
+-- Bronchoalveloar cancer
+-- Infectious diseases
+2. Centrilobular with tree and bud
+3. -- 
 ### High Attenuation
 - Ground Glass Opacities
 - Consolidation
@@ -28,6 +34,6 @@ Dominant Pattern(reticular, nodular) -> Distribution in sec. lobule (centrilobul
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMjY4NzA1NiwxMzUyMDcwNjI3LC0xMD
+eyJoaXN0b3J5IjpbMTg4MjcwMDgzNiwxMzUyMDcwNjI3LC0xMD
 czODEzMTM3LDQ0Mzg2OTUyNV19
 -->
