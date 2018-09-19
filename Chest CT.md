@@ -1,6 +1,8 @@
 # Basics of Chest CT
-Foll
-Dominant Pattern(reticular, nodular) -> Distribution in sec. lobule (centrilobular, perilymphatic, random) ->Distribution within lung (upper zones, lower zones, central, or peripheral)
+Take the following steps:
+1. Identify the dominant Pattern *(reticular vs nodular)* 
+2. Identify distribution in secondary lobule *(centrilobular, perilymphatic, random)*
+3. Distribution within lung (upper zones, lower zones, central, or peripheral)
 ## CT Chest Patterns
 ### Reticular or septal thickening
 1. Smooth
@@ -44,6 +46,6 @@ Dominant Pattern(reticular, nodular) -> Distribution in sec. lobule (centrilobul
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk2NzI3NjA3LDEzNTIwNzA2MjcsLTEwNz
-M4MTMxMzcsNDQzODY5NTI1XX0=
+eyJoaXN0b3J5IjpbLTIwMTA4MTEzNDksMTM1MjA3MDYyNywtMT
+A3MzgxMzEzNyw0NDM4Njk1MjVdfQ==
 -->
