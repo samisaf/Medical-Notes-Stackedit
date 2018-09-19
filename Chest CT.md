@@ -34,7 +34,15 @@ Take the following steps:
 -- Metastases
 ### High Attenuation
 1. Ground Glass Opacities
-- Consolidation
+- Acute
+-- Pulmonary edema (CHF, ARDS)
+-- Pulmonary hemorrhage
+-- Pneumonia
+- Chronic
+-- Hypersensitivity pneumonia
+-- Organizing pneumonia
+-- Chronic alveolar p
+2. Consolidation
 
 ### Low Attenuation
 - Emphysema
@@ -47,6 +55,6 @@ Take the following steps:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3ODExOTIzOSwtMTk3NDY3MzMwNSwxMz
-UyMDcwNjI3LC0xMDczODEzMTM3LDQ0Mzg2OTUyNV19
+eyJoaXN0b3J5IjpbLTE2MDk0NTU3MTMsLTE5NzQ2NzMzMDUsMT
+M1MjA3MDYyNywtMTA3MzgxMzEzNyw0NDM4Njk1MjVdfQ==
 -->
