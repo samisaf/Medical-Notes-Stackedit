@@ -1,5 +1,5 @@
 # Basics of Chest CT
-
+Dominant Pattern(reticular, nodular) -> Distribution in sec. lobule (centrilobular, perilymphatic, random) ->Distribution within lung (upper zones, lower zones, central, or peripheral)
 ## CT Chest Patterns
 ### Reticular
 
@@ -19,5 +19,6 @@
 ![Secondary lobule](https://images.radiopaedia.org/images/335613/683689b399c8f6da29db25206ffb12_jumbo.jpeg)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzM4MTMxMzcsNDQzODY5NTI1XX0=
+eyJoaXN0b3J5IjpbLTYwNjM5OTI5MywtMTA3MzgxMzEzNyw0ND
+M4Njk1MjVdfQ==
 -->
