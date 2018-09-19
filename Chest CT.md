@@ -18,7 +18,10 @@ Dominant Pattern(reticular, nodular) -> Distribution in sec. lobule (centrilobul
 -- Bronchoalveloar cancer
 -- Infectious diseases
 2. Centrilobular with tree and bud
-3. -- 
+-- Infection (TB, MAC, bacterial, fungal)
+-- Airway disease (cystic fibrosis, brohchiectasis)
+-- ABPA
+3. Perilymphatic distribution (
 ### High Attenuation
 - Ground Glass Opacities
 - Consolidation
@@ -34,6 +37,6 @@ Dominant Pattern(reticular, nodular) -> Distribution in sec. lobule (centrilobul
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MjcwMDgzNiwxMzUyMDcwNjI3LC0xMD
+eyJoaXN0b3J5IjpbMjA2MDg1OTY1MywxMzUyMDcwNjI3LC0xMD
 czODEzMTM3LDQ0Mzg2OTUyNV19
 -->
