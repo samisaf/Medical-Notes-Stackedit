@@ -72,7 +72,8 @@ Take the following steps:
 - Cystic lung disease (has wall)
 -- Langerhans cell histiocytosis
 -- Lymphangioleiomyomatosis
--- Lympphocytic interstitial 
+-- Lympphocytic interstitial pneumonia
+-- PCP
 - Honeycombing
 -- UIP or interstitial fibrosis (IPF, RA, scleroderma, drug reaction, asbestosis)
 -- End stage sarcoidosis
@@ -88,7 +89,7 @@ Take the following steps:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAxMzc4MzM1LDEzNTY2MTU2MzgsLTE5Nz
-Q2NzMzMDUsMTM1MjA3MDYyNywtMTA3MzgxMzEzNyw0NDM4Njk1
-MjVdfQ==
+eyJoaXN0b3J5IjpbMjAwNDg3MjkwOCwxMzU2NjE1NjM4LC0xOT
+c0NjczMzA1LDEzNTIwNzA2MjcsLTEwNzM4MTMxMzcsNDQzODY5
+NTI1XX0=
 -->
