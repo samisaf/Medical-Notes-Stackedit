@@ -58,8 +58,14 @@ Take the following steps:
 -- AIP
 - Fibrosis
 -- UIP
+-- NSIP
+-- Radiation
 - Tumor
+-- Bronchoalveloar carcinoma
+-- Lymphoma
 - Idiopathic 
+-- Sarcoidosis
+-- Alveolar proteinosis
 
 ### Low Attenuation
 - Emphysema
@@ -72,6 +78,6 @@ Take the following steps:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTk5NzI1NzQsLTE5NzQ2NzMzMDUsMT
-M1MjA3MDYyNywtMTA3MzgxMzEzNyw0NDM4Njk1MjVdfQ==
+eyJoaXN0b3J5IjpbMTM1NjYxNTYzOCwtMTk3NDY3MzMwNSwxMz
+UyMDcwNjI3LC0xMDczODEzMTM3LDQ0Mzg2OTUyNV19
 -->
