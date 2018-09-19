@@ -43,10 +43,10 @@ Take the following steps:
 
 ## Secondary lobule
 
-![Secondary lobule](https://images.radiopaedia.org/images/335613/683689b399c8f6da29db25206ffb12_jumbo.jpeg =500x)
+![Secondary lobule](https://images.radiopaedia.org/images/335613/683689b399c8f6da29db25206ffb12_jumbo.jpeg)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNDg2NTQ0NywxMzUyMDcwNjI3LC0xMD
-czODEzMTM3LDQ0Mzg2OTUyNV19
+eyJoaXN0b3J5IjpbLTE5NzQ2NzMzMDUsMTM1MjA3MDYyNywtMT
+A3MzgxMzEzNyw0NDM4Njk1MjVdfQ==
 -->
