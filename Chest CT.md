@@ -70,8 +70,12 @@ Take the following steps:
 ### Low Attenuation
 - Emphysema (no wall)
 - Cystic lung disease (has wall)
+-- Langerhans cell histiocytosis
+-- Lymphangioleiomyomatosis
+-- Lympphocytic interstitial 
 - Honeycombing
--- UIP or interstitial fibrosis
+-- UIP or interstitial fibrosis (IPF, RA, scleroderma, drug reaction, asbestosis)
+-- End stage sarcoidosis
 - Bronchiectasis 
 -- Prior infection (focal bronchiectasis)
 -- Cystic fibrosis
@@ -84,7 +88,7 @@ Take the following steps:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMzg0MDE1OCwxMzU2NjE1NjM4LC0xOT
-c0NjczMzA1LDEzNTIwNzA2MjcsLTEwNzM4MTMxMzcsNDQzODY5
-NTI1XX0=
+eyJoaXN0b3J5IjpbNDAxMzc4MzM1LDEzNTY2MTU2MzgsLTE5Nz
+Q2NzMzMDUsMTM1MjA3MDYyNywtMTA3MzgxMzEzNyw0NDM4Njk1
+MjVdfQ==
 -->
