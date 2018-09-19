@@ -71,17 +71,25 @@ Take the following steps:
 1. Emphysema (no wall)
 - Paraseptal
 -- young adults with sponteaneous pneumothorax
--- older patientsw w
+-- older patients with centrilobular emphysema
 - Panlobular 
 -- alpha-1 antitrypsin deficiency
 -- advanced smokers
-- Cystic lung disease (has wall)
--- Langerhans cell histiocytosis
--- Lymphangioleiomyomatosis
--- Lympphocytic interstitial pneumonia
--- PCP
-- Honeycombing
--- UIP or interstitial fibrosis (IPF, RA, scleroderma, drug reaction, asbestosis)
+- Centrilobular emphysema
+-- most common type
+-- upper lobe predemoniant
+-- strongly associated with smoking
+2. Cystic lung disease (has wall)
+- Langerhans cell histiocytosis
+- Lymphangioleiomyomatosis
+- Lympphocytic interstitial pneumonia
+- PCP
+3. Honeycombing
+- UIP or interstitial fibrosis 
+-- IPF
+-- RA
+-- scleroderma
+-- drug reaction, asbestosis)
 -- End stage sarcoidosis
 - Bronchiectasis 
 -- Prior infection (focal bronchiectasis)
@@ -95,7 +103,7 @@ Take the following steps:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMzMzMDY5NCwxMzU2NjE1NjM4LC0xOT
-c0NjczMzA1LDEzNTIwNzA2MjcsLTEwNzM4MTMxMzcsNDQzODY5
-NTI1XX0=
+eyJoaXN0b3J5IjpbOTA0MDk3MzY3LDEzNTY2MTU2MzgsLTE5Nz
+Q2NzMzMDUsMTM1MjA3MDYyNywtMTA3MzgxMzEzNyw0NDM4Njk1
+MjVdfQ==
 -->
