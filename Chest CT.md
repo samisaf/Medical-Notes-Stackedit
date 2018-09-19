@@ -47,8 +47,17 @@ Take the following steps:
 -- Bronchoalveolar carcinoma
 2. Consolidation
 - Pneumonia
+-- PCP
+-- viral 
+-- bacterial
+-- eosinophilic pneumonia
+-- organizing penumonia
 - Edema
+-- CHF
+-- ARDS
+-- AIP
 - Fibrosis
+-- UIP
 - Tumor
 - Idiopathic 
 
@@ -63,6 +72,6 @@ Take the following steps:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE2MjU2NjU1LC0xOTc0NjczMzA1LDEzNT
-IwNzA2MjcsLTEwNzM4MTMxMzcsNDQzODY5NTI1XX0=
+eyJoaXN0b3J5IjpbLTIwOTk5NzI1NzQsLTE5NzQ2NzMzMDUsMT
+M1MjA3MDYyNywtMTA3MzgxMzEzNyw0NDM4Njk1MjVdfQ==
 -->
