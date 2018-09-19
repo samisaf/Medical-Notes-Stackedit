@@ -68,9 +68,15 @@ Take the following steps:
 -- Alveolar proteinosis
 
 ### Low Attenuation
-- Emphysema
-- Cystic lung disease
+- Emphysema (no wall)
+- Cystic lung disease (has wall)
 - Honeycombing
+-- UIP or interstitial fibrosis
+- Bronchiectasis 
+-- Prior infection (focal bronchiectasis)
+-- Cystic fibrosis
+-- Asthma (ABPA)
+-- Immune deficiency
 
 ## Secondary lobule
 
@@ -78,6 +84,7 @@ Take the following steps:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NjYxNTYzOCwtMTk3NDY3MzMwNSwxMz
-UyMDcwNjI3LC0xMDczODEzMTM3LDQ0Mzg2OTUyNV19
+eyJoaXN0b3J5IjpbMjAwMzg0MDE1OCwxMzU2NjE1NjM4LC0xOT
+c0NjczMzA1LDEzNTIwNzA2MjcsLTEwNzM4MTMxMzcsNDQzODY5
+NTI1XX0=
 -->
