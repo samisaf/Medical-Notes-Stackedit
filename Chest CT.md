@@ -68,7 +68,13 @@ Take the following steps:
 -- Alveolar proteinosis
 
 ### Low Attenuation
-- Emphysema (no wall)
+1. Emphysema (no wall)
+- Paraseptal
+-- young adults with sponteaneous pneumothorax
+-- older patientsw w
+- Panlobular 
+-- alpha-1 antitrypsin deficiency
+-- advanced smokers
 - Cystic lung disease (has wall)
 -- Langerhans cell histiocytosis
 -- Lymphangioleiomyomatosis
@@ -89,7 +95,7 @@ Take the following steps:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNDg3MjkwOCwxMzU2NjE1NjM4LC0xOT
+eyJoaXN0b3J5IjpbMTEyMzMzMDY5NCwxMzU2NjE1NjM4LC0xOT
 c0NjczMzA1LDEzNTIwNzA2MjcsLTEwNzM4MTMxMzcsNDQzODY5
 NTI1XX0=
 -->
