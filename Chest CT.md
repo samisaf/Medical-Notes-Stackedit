@@ -1,8 +1,19 @@
 # Basics of Chest CT
 ## CT Chest Patters
-### Reticular 
+### Reticular
+
+### Nodular
+
+### High Attenuation
+- Ground Glass Opacities
+- Consolidation
+
+### Low Attenuation
+- Emphysema
+- Cystic lung disease
+- Honeycombing
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjEyMzA5MDBdfQ==
+eyJoaXN0b3J5IjpbNDQzODY5NTI1XX0=
 -->
