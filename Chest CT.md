@@ -102,7 +102,11 @@ Take the following steps:
 1. Hilar/mediastinal lymphadenopathy
 - Lung cancer
 - Lymphangitic spread of carcinoma
-- 
+- Progressive systemic scleorosis
+- Active TB, or MAC
+- Sarcoidosis (symmetric)
+- Coal workers' pneumocnoisis
+- Silicosis (egg-shell calcifications)
 
 ## Secondary lobule
 
@@ -110,7 +114,7 @@ Take the following steps:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NDQ2ODMxMywtNDkzNTExODY0LDEzNT
-Y2MTU2MzgsLTE5NzQ2NzMzMDUsMTM1MjA3MDYyNywtMTA3Mzgx
-MzEzNyw0NDM4Njk1MjVdfQ==
+eyJoaXN0b3J5IjpbLTEyMDU3NTU0NTIsLTQ5MzUxMTg2NCwxMz
+U2NjE1NjM4LC0xOTc0NjczMzA1LDEzNTIwNzA2MjcsLTEwNzM4
+MTMxMzcsNDQzODY5NTI1XX0=
 -->
